@@ -29,14 +29,14 @@ Struktur package dan class:
     └── CafeService.java</pre>
 <h3>Contoh Penggunaan Fitur Utama</h3>
 <h4>1. Lihat Menu</h4>
-<img width="352" height="387" alt="Screenshot 2025-10-04 060955" src="https://github.com/user-attachments/assets/0b5e5660-e064-4f71-b17b-630b8aa0cd31" />
+<img width="300" height="300" alt="Screenshot 2025-10-04 060955" src="https://github.com/user-attachments/assets/0b5e5660-e064-4f71-b17b-630b8aa0cd31" />
 <h4>2. Tambah Pesanan</h4>
-<img width="372" height="277" alt="Screenshot 2025-10-04 061153" src="https://github.com/user-attachments/assets/628bb06f-04c6-4644-b1a3-27ac8c6630f1" />
+<img width="300" height="200" alt="Screenshot 2025-10-04 061153" src="https://github.com/user-attachments/assets/628bb06f-04c6-4644-b1a3-27ac8c6630f1" />
 <h4>3. Lihat Keranjang</h4>
-<<img width="388" height="282" alt="Screenshot 2025-10-04 061213" src="https://github.com/user-attachments/assets/5d51a7fa-b377-47b4-a9cf-2d5adb8f0761" />
+<<img width="300" height="200" alt="Screenshot 2025-10-04 061213" src="https://github.com/user-attachments/assets/5d51a7fa-b377-47b4-a9cf-2d5adb8f0761" />
 <h4>4. Checkout</h4>
-<img width="542" height="380" alt="Screenshot 2025-10-04 061237" src="https://github.com/user-attachments/assets/ed1d84bc-a37e-48dc-bbc8-450fad838a32" />
+<img width="500" height="300" alt="Screenshot 2025-10-04 061237" src="https://github.com/user-attachments/assets/ed1d84bc-a37e-48dc-bbc8-450fad838a32" />
 <h4>0. Keluar</h4>
-<img width="451" height="340" alt="Screenshot 2025-10-04 061348" src="https://github.com/user-attachments/assets/2eadc19a-a03a-42b9-b139-51ad4343910a" />
+<img width="400" height="300" alt="Screenshot 2025-10-04 061348" src="https://github.com/user-attachments/assets/2eadc19a-a03a-42b9-b139-51ad4343910a" />
 <h3>Link video Youtube</h3>
 Link:
